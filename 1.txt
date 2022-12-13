@@ -1,4 +1,4 @@
 m1
 ghjkl
 
-feature/test --> changes --> git stash --> work new changes --> git stash apply 
+1. feature/test --> changes --> git stash --> work new changes --> git stash apply 
